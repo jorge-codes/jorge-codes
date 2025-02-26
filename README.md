@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Jorge!
 
 - 👀 I’m looking for opportunities in Vancouver, BC. 🍁🇨🇦
-- 📫 How to reach me at https://www.linkedin.com/in/jorgecodes/
+- 📫 You can reach me at https://www.linkedin.com/in/jorgecodes/
 - 🌱 I’m constantly learning something new!
 
 # Software Engineer
